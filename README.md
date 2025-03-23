@@ -1,10 +1,21 @@
 # 3d.game
-AI has transformed the face of video game design with the delivery of more
-sophisticated and interactive NPC behavior than ever witnessed before. It avails
-dynamic and interactive player experiences. This paper attempts a comprehensive
-review of AI approaches applied to NPCs and adaptive game difficulty, focusing
-on the applications, advantages, limitations, and suggested improvements. In
-keeping with the varied approaches, from the classic rule-based methods to
-superior machine learning and generative models, this review will provide an
-informative overview of current AI in gaming and future directions on the
-optimization of NPC intelligence and adaptability.
+In the field of interactive gaming, the creation of immersive and adaptive
+environments can make all the difference for a player. This project aims
+to develop an AI-driven Role-Playing Game using Unity, demonstrating
+how artificial intelligence can be applied to enhance player engagement.
+The game's unique selling point is its intelligent NPCs, which use
+advanced AI techniques to navigate the game world, interact with players,
+and dynamically change their behaviors based on real-time events.
+Finite State Machines, at the heart of NPCs, manage their decision-making
+logic. FSMs can then transition between states of attacking, defending, and
+exploration without any problems at all depending on the scenario. The A
+algorithm* for pathfinding is integrated in the project, ensuring that NPCs
+can navigate through complex environments efficiently, avoiding obstacles,
+and dynamically adapt routes if there are changes in the game terrain.
+A unique feature of the project is its application of machine learning
+techniques, allowing the game to analyze a player's gameplay style, whether
+aggressive, defensive, or exploratory, and adapt NPC strategies accordingly.
+For example, NPCs might be more coordinated in attacks on players who
+prefer playing alone or increase defensive measures on persistent aggressors.
+This makes each playthrough different and challenging, hence making the
+game more replayable.
