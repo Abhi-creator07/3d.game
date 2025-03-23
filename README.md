@@ -12,10 +12,4 @@ exploration without any problems at all depending on the scenario. The A
 algorithm* for pathfinding is integrated in the project, ensuring that NPCs
 can navigate through complex environments efficiently, avoiding obstacles,
 and dynamically adapt routes if there are changes in the game terrain.
-A unique feature of the project is its application of machine learning
-techniques, allowing the game to analyze a player's gameplay style, whether
-aggressive, defensive, or exploratory, and adapt NPC strategies accordingly.
-For example, NPCs might be more coordinated in attacks on players who
-prefer playing alone or increase defensive measures on persistent aggressors.
-This makes each playthrough different and challenging, hence making the
-game more replayable.
+
